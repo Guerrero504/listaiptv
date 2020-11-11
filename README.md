@@ -31,8 +31,8 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
  
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/njhits.png" group-title="Música", NRJ HITS
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
- 
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1784417175_b981072.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/YvLhlc45BS2R1zFx7svCe5cQY7My514Gk2oDGq0Vk0IWTldUVupojM7zmo_Hxh3nwoL5EHvXhKv1-6C-OFPGjhlIPdaoCxxGN1jn9FhjtTFiz1tZPsJrKxmTVIc=w504-h292" group-title="Música", BAND
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1481935803.m3u8
  
