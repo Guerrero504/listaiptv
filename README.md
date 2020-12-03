@@ -1,3 +1,4 @@
+#EXTINF:
 
 #EXTINF:-1 tvg-logo="http://www.brasilradios.com.br/wp-content/uploads/2015/07/radio-capivara-dioario-sertao-fm-104.gif" group-title="TV ABERTA", DIÁRIO DO SERTÃO
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w85158475.m3u8
