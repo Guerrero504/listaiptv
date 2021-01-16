@@ -22,8 +22,8 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnEkL7aidq8gWhF1p-Z4gfqUQkSNXnOvxazA&usqp=CAU" group-title="TV ABERTA", RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1059803452.m3u8
  
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", TV ARAPUAN HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1074273535.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTn68wsOcr_5tXI42sffCLbYiC1FOkWCASidA&usqp=CAU" group-title="Música", FOX MIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
