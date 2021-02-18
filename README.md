@@ -71,3 +71,8 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF: -1 tvg-logo = " http://www.cxtv.com.br/img/Tvs/Logo/430a862c5c9cddbd3856cbdf8068b6be.png " group-title = "música", TUA MÚSICA
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
+
+#EXTINF: -1 tvg-logo = " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpIFF8IcJXhhB27q4DkIeejAQIEFHhrSmZw&usqp=CAU " group-title = "todos", DISCOVERY SCIENCE https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverysciencehd/video.m3u8?md5=qwafOfZIJNc3qFo94-Kf9A&expires=1613704705
+
+
+
