@@ -33,12 +33,14 @@ https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1784417175_b981072.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/YvLhlc45BS2R1zFx7svCe5cQY7My514Gk2oDGq0Vk0IWTldUVupojM7zmo_Hxh3nwoL5EHvXhKv1-6C-OFPGjhlIPdaoCxxGN1jn9FhjtTFiz1tZPsJrKxmTVIc=w504-h292" group-title="Música", BAND
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1481935803.m3u8
  
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/z7tAvAaKCz2l5x2WlMFxpLyng-5cyAUGW-uDWHOr5OyU-B6h5FoLAPcRU80rdXk3MN4tegbiVLqXMBQ71-tXnlj0h5SSnYsDanRj4M7wEFt2sOgfkV176YZCpkgak4wV7k8CzVA=w389-h378" group-title="Jornalismo",GLOBO 
-https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1601594560&token=13ab9d187c1a2bd2d110915b6fd4ae7a
+
 
 
 
 #EXTINF: -1 tvg-logo = " http://www.cxtv.com.br/img/Tvs/Logo/4d80d2bc4319364c0e3cd3f08b8dc699.jpg " group-title = "Música", RADIO 105 TV https://vod06-mediaset-it.akamaized.net/cortesia/GEOLOCK-DEF_2.mp4
+
+#EXTINF: -1 tvg-logo = " https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png " group-title = "todos", GLOBO HD 
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = " http://www.cxtv.com.br/img/Tvs/Logo/bcbccf746b61a71e20d87f8b52a077e9.png " group-title = "Música", TV RECREIO https://srv2.zcast.com.br/maria6815/maria6815/chunklist_w217932621.m3u8
 
