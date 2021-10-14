@@ -20,6 +20,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnEkL7aidq8gWhF1p-Z4gfqUQkSNXnOvxazA&usqp=CAU" group-title="TV ABERTA", RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1059803452.m3u8
  
+#EXTINF:-1 tvg-logo="f" group-title="TV ABERTA", KRONO HIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b828000.m3u8
 
  
 
