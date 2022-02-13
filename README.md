@@ -25,7 +25,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b828000.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnEkL7aidq8gWhF1p-Z4gfqUQkSNXnOvxazA&usqp=CAU" group-title="TV ABERTA", GLOBO
-https://cdn.bgp20.xyz:802PagrB/9D8TgQ/83455
+https://cdn.bgp20.xyz:80/2PagrB/9D8TgQ/83455
  
 
 
