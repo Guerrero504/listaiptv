@@ -13,7 +13,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmpgW9_eFV5wtISMnUPFJpkpovqL7eqArowQ&usqp=CAU" group-title="TV ABERTA", RADIO M2O
-https://StreamCdnC2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+https://StreamCdnC2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b764000.m3u8
  
 
  
